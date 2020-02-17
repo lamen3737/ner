@@ -5,9 +5,9 @@ const config = {
     "token": "Njc5MDQwNTUwMDY1OTMwMjUw.XkrvIQ.x_h1XNgmCMt11JA6m9XIzX2fHY8", //botunuzun tokenini yazınız
     "dashboard" : {
       "oauthSecret": "Njc5MDQwNTUwMDY1OTMwMjUw.XkrvIQ.x_h1XNgmCMt11JA6m9XIzX2fHY8", //botunuzun secretini yazınız
-      "callbackURL": `https://puffy-shaker-kkjln5ipua.glitch.me/callback`, //site URLnizi yazınız /callback kısmını silmeyiniz!
+      "callbackURL": `https://anloxbot-gecilcek.glitch.me/callback`, //site URLnizi yazınız /callback kısmını silmeyiniz!
       "sessionSecret": "xyzxyz", //kalsın
-      "domain": "https://puffy-shaker-kkjln5ipua.glitch.me/" //site URLnizi yazınız!
+      "domain": "https://anloxbot-gecilcek.glitch.me/" //site URLnizi yazınız!
     }
   };
   
